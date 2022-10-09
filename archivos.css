@@ -1,0 +1,15 @@
+nav img{
+    width: 100px;
+}
+.opc{
+    filter: brightness(70);
+    -webkit-filter: brightness(50%);
+}
+#login{
+        display:flex;
+        justify-content: right;
+        align-items:center;
+        text-align: end;
+        margin-left: 50%;
+        margin-top: 15%;
+    }
